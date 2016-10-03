@@ -68,6 +68,10 @@ img.center {
 	text-align: center;
 	font-size: 35px;
 }
+#coming-soon h2{
+	text-align: center;
+	font-size: 10px;
+}
 #coming-soon img{
     clear: both;
     display: block;
